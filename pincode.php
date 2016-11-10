@@ -3,8 +3,7 @@
 
 if(empty($_SESSION['usernameloginportal'])){
 	
-	echo('باید به سیستم وارد شوید');
-    echo('آزمایش');
+	echo('تست دوم برای برگشت فایل');
 	exit();
 }
 
