@@ -4,6 +4,7 @@
 if(empty($_SESSION['usernameloginportal'])){
 	
 	echo('باید به سیستم وارد شوید');
+    echo('Test');
 	exit();
 }
 
